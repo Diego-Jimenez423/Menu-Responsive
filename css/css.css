@@ -34,7 +34,7 @@ background: linear-gradient(90deg, rgba(12,148,167,1) 0%, rgba(32,107,111,1) 100
     font-family: sans-serif;
 }
 .bt:hover{
-    background-color: rgba(247,75,52,1);
+    background-color: #00aae4;
     color: white;
 }
 .mas{
@@ -51,7 +51,7 @@ background: linear-gradient(90deg, rgba(12,148,167,1) 0%, rgba(32,107,111,1) 100
     display: block;
 }
 .mas:hover{
-    background-color: rgba(247,75,52,1);
+    background-color: #008080;
 }
 .botones4 a{
     text-decoration: none;
